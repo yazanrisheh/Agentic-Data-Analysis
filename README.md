@@ -1,11 +1,10 @@
 # Agentic Data Analysis
 
-This is an AI agent built in LangGraph that can perform data analysis on a provided dataset. It is to accompany my Youtube video to showcase some advanced LangGraph techniques.
-
+This is an AI agent built in LangGraph that can perform data analysis on a provided dataset.
 
 ## Getting Setup
 
-If you want to use the same dataset as me, you can download it from Kaggle below:
+Sample dataset
 
 https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets/data 
 
